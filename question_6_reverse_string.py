@@ -21,7 +21,7 @@ def string_reverse(str1):
     return rstr1
 
 def main():    
-    print("String reverse for \'12345abcde'\ is", string_reverse('12345abcde'))
+    print("String reverse for \'12345abcde\' is", string_reverse('12345abcde'))
 
 # Don't change the code below!
 if __name__ == "__main__":
